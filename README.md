@@ -1,4 +1,6 @@
 # SuperStore Sales Profitability Analysis
+![Dashboard Preview](https://github.com/favy-codez/SuperStore-Sales-Profitability-Analysis/blob/main/Page1.png)
+![Dashboard Preview](https://github.com/favy-codez/SuperStore-Sales-Profitability-Analysis/blob/main/Page2.png)
 
 ## Overview  
 This project analyzes sales, profit, and discount data from a US-based retail company (SuperStore) to uncover drivers of profitability and loss across regions, product categories, and customer segments. The goal is to deliver actionable insights and interactive dashboards that support data-driven decision-making.
@@ -23,4 +25,10 @@ Retail businesses often struggle to identify which products, regions, or custome
 2. Ensure you have Power BI Desktop installed
 
 ### Documentation  
-- View the extensive report here - 
+**[View comprehensive Report here ](https://medium.com/@ezeliorafavour/unlocking-retail-profitability-a-deep-dive-into-superstore-sales-data-bb94e0b07950)**  
+
+---
+
+## Contact Me
+If you found this project helpful or want to collaborate, feel free to connect:
+[**Connect with me**](https://linktr.ee/ezelioragodsfavour)
